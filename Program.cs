@@ -37,6 +37,7 @@ namespace Get_Information
                 age=Console.ReadLine();
                 Age=Convert.ToInt32(age);
             }
+            Console.WriteLine("Your Information is :\n"+FirstName+" "+LastName+" , "+age+" Years Old");
         }
     }
 }
