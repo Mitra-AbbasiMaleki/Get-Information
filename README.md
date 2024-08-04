@@ -1,1 +1,1 @@
-Get informatino
+Get information
