@@ -1,1 +1,1 @@
-Get information
+Get Information Project
